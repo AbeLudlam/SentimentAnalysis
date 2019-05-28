@@ -1,4 +1,4 @@
-ll files can be found in this directory, the folders are there to help guide for specific things. 
+Folders are there to help guide for specific things. 
 
 All python programs are meant to be run in Python3 through the command line (Wanted to turn the final model into an executable, but the nltk library dependency causes problems with that)
 
