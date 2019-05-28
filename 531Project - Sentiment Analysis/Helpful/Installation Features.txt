@@ -1,0 +1,22 @@
+These are all the libraries and languages that need to be installed for Python3 for the files to run.
+
+python3
+pandas
+nltk
+matplotlib
+importlib
+numpy
+wordcloud
+pillow/PIL
+tkinter
+datetime
+glob
+sys
+unicodedata
+pickle 
+time
+wordnet
+sklearn
+re
+scipy
+app-get install TkAgg and other dependencies

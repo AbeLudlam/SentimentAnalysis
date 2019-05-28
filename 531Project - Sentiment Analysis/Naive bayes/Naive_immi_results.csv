@@ -1,0 +1,2 @@
+﻿positive,negative,neutral,accuracy,total,month,feature1,feature2,feature3,feature4,feature5,feature6,feature7,feature8,feature9,feature10
+58.791994281629734,25.696926375982844,15.51107934238742,0.6687382550335571,2798,September,contains(new),contains(legal),contains(hate),contains(first),contains(economic),contains(worst),contains(far),contains(important),contains(really),contains(best)

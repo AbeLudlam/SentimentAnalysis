@@ -1,0 +1,5 @@
+﻿positive,negative,neutral,accuracy,total,month,feature1,feature2,feature3,feature4,feature5,feature6,feature7,feature8,feature9,feature10
+58.791994281629734,25.696926375982844,15.51107934238742,0.6687382550335571,2798,September,contains(new),contains(legal),contains(hate),contains(first),contains(economic),contains(worst),contains(far),contains(important),contains(really),contains(best)
+56.552262090483616,30.382215288611544,13.065522620904837,0.6550795454545454,5128,October,contains(new),contains(first),contains(cruel),contains(important),contains(really),contains(legal),contains(hate),contains(economic),contains(free),contains(far)
+56.71173346209561,28.681796233703526,14.606470304200869,0.6722190923317685,4142,November,contains(free),contains(legal),contains(important),contains(first),contains(far),contains(economic),contains(long),contains(really),contains(useless),contains(clear)
+55.09977827050998,31.910569105691057,12.989652623798966,0.6577581641659311,5412,December,contains(new),contains(legal),contains(first),contains(really),contains(wants),contains(hate),contains(worst),contains(great),contains(long),contains(cruel)
