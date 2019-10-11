@@ -541,6 +541,7 @@ class PageTwo(Frame):
         button1.pack()
         button2= Button(self, text='Get Monthly sentiment of result CSV', command=callbackMonth).pack()
         button3= Button(self, text='Get accuracy of result CSV', command=callbackAcc).pack()
+	button4= Button(self, text='Exit', command=self.destroy).pack()
        
 def callbackMonth():
     name2= askopenfilename()
@@ -666,7 +667,7 @@ def callbackBOW():
     name= askopenfilename()
     print(name)
     bagofwords(name)
-    
+    #comment
     return name
 
 def bowYes():
